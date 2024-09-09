@@ -1,1 +1,1 @@
-# Asp.NetCore
+# Asp.NetCore MVC StudentPortal
